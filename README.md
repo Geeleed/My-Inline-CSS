@@ -4,5 +4,5 @@
 
 ```html
 <link rel="stylesheet" type="text/css" href="https://my-inline-css.vercel.app/style.css">
-
+```
 ลงใน head
